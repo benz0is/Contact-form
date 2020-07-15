@@ -141,9 +141,16 @@ h1 {
 }
 .del_btn {
   color: red;
+  cursor: pointer;
 }
 .section {
   background-color: gray;
   padding: 0 5px 5px 5px;
-  margin-bottom: 5px;
+}
+.contact_list {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 300px;
+  background-color: white;
 }
